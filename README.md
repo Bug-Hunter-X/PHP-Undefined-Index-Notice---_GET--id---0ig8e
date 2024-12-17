@@ -1,0 +1,1 @@
+This repository demonstrates a common PHP error: the "Undefined index" notice. This occurs when trying to access an array element using a key that doesn't exist.  The solution shows how to safely access the array element using isset() or the null coalescing operator.
